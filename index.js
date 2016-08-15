@@ -1,6 +1,6 @@
 'use strict';
-
-var React = require('react-native');
+var React = requie('react');
+var ReactNavtive = require('react-native');
 var {
   View,
   StyleSheet,
@@ -9,7 +9,7 @@ var {
   TouchableWithoutFeedback,
   Dimensions,
   Easing
-} = React;
+} = ReactNative;
 
 var screen = Dimensions.get('window');
 
