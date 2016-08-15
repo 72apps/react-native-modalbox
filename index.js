@@ -1,5 +1,5 @@
 'use strict';
-var React = requie('react');
+var React = require('react');
 var ReactNavtive = require('react-native');
 var {
   View,
