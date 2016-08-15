@@ -1,6 +1,6 @@
 'use strict';
 var React = require('react');
-var ReactNavtive = require('react-native');
+var ReactNative = require('react-native');
 var {
   View,
   StyleSheet,
